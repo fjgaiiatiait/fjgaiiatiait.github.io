@@ -5,7 +5,7 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-color: #f9f9f9;
+    background-color: #434343;
 }
 
 /* Header and Navigation */
@@ -43,7 +43,7 @@ section {
 }
 
 h1, h2 {
-    color: #007BFF;
+    color: ##FFFFFF;
 }
 
 /* Form Styling */
