@@ -4,8 +4,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #333;
-    background-color: ##414040;
+    color: #f1f1f1; /* Updated text color for better contrast */
+    background-color: #414040; /* Updated background color */
 }
 
 /* Header and Navigation */
@@ -43,7 +43,7 @@ section {
 }
 
 h1, h2 {
-    color: ##FFFFFF;
+    color: #007BFF;
 }
 
 /* Form Styling */
@@ -83,4 +83,5 @@ footer {
     color: #fff;
     text-align: center;
     padding: 10px 0;
-    margin-top
+    margin-top: 20px;
+}
